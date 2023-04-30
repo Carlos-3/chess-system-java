@@ -4,7 +4,7 @@ import chess.ChessMatch;
 
 public class Programa {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 
 	
 		ChessMatch chessMatch = new ChessMatch();
